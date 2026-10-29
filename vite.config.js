@@ -23,6 +23,7 @@ export default defineConfig({
         about: resolve(__dirname, 'about.html'),
         social: resolve(__dirname, 'social.html'),
         legal: resolve(__dirname, 'legal.html'),
+        labTests: resolve(__dirname, 'lab-tests.html'),
         articles: resolve(__dirname, 'articles.html'),
         commerceLab: resolve(__dirname, 'commerce-lab.html'),
         paymentStatus: resolve(__dirname, 'payment-status.html'),

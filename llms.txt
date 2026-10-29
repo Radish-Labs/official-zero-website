@@ -14,4 +14,5 @@
 
 - [Catalog](https://zerofoods.id/catalog/): Official ZERO product catalog.
 - [About ZERO](https://zerofoods.id/about-zero/): Company and team information.
+- [Lab tests](https://zerofoods.id/lab-tests/): Full independent SIG Laboratory results for ZERO Syrup and ZERO Maple Topping (PDF).
 - [Legal information](https://zerofoods.id/legal-info/): Website terms and product information.

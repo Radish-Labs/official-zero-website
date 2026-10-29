@@ -14,6 +14,7 @@ const routes = [
     { path: '/zfit/', file: 'zfit.html', script: 'zfit.js' },
     { path: '/about-zero/', file: 'about.html' },
     { path: '/zero-social/', file: 'social.html' },
+    { path: '/lab-tests/', file: 'lab-tests.html' },
     { path: '/legal-info/', file: 'legal.html' },
     { path: '/articles/', file: 'articles.html' },
 ];

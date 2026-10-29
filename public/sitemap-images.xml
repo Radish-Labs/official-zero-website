@@ -283,4 +283,13 @@
       <image:loc>https://zerofoods.id/ZERO%20Media/meet-the-team/bang-zero.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://zerofoods.id/lab-tests/</loc>
+    <image:image>
+      <image:loc>https://zerofoods.id/lab-tests/zero-syrup-sig-lab-result-2025-preview.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://zerofoods.id/lab-tests/zero-maple-topping-sig-lab-result-2026-preview.webp</image:loc>
+    </image:image>
+  </url>
 </urlset>

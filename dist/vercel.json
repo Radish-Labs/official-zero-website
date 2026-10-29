@@ -48,6 +48,11 @@
       "permanent": true
     },
     {
+      "source": "/lab-tests.html",
+      "destination": "/lab-tests",
+      "permanent": true
+    },
+    {
       "source": "/articles.html",
       "destination": "/articles",
       "permanent": true

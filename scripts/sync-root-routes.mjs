@@ -13,6 +13,7 @@ const routes = [
     ['about.html', 'about-zero'],
     ['social.html', 'zero-social'],
     ['legal.html', 'legal-info'],
+    ['lab-tests.html', 'lab-tests'],
     ['articles.html', 'articles'],
     ['commerce-lab.html', 'commerce-lab'],
     ['payment-status.html', 'payment-status'],
